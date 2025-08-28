@@ -1,3 +1,6 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]Model[[:space:]]Folder[[:space:]]6[[:space:]]copy/** filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]Model[[:space:]]Folder[[:space:]]7[[:space:]]copy/** filter=lfs diff=lfs merge=lfs -text
+ML[[:space:]]Model[[:space:]]Folder[[:space:]]8[[:space:]]copy/** filter=lfs diff=lfs merge=lfs -text
